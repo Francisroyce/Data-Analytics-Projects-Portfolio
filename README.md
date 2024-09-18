@@ -1,6 +1,6 @@
 ## Okoronkwo Francis Ifeanyi - Data Analytics Professional
 
-I am a **Data Analytics Professional** with a background in **Agricultural and Bioresources Engineering**. My experience spans across several data-centric projects, showcasing my expertise in tools like **Excel**, **Power BI**, **SQL**, and **Python**. I have worked on various projects including data cleaning, exploration, visualization, and automation.
+A dexterous, ardent and internally propelled **Data Analyst whose .** experience spans across several data-centric projects, showcasing my expertise in tools like **Excel**, **Power BI**, **SQL**, and **Python**. I have worked on various projects including data cleaning, exploration, visualization, and automation.
 
 ### Skills:
 - **Data Analysis & Visualization**: Proficient in Excel, Power BI, Tableau for creating comprehensive reports and dashboards.
@@ -12,7 +12,7 @@ I am a **Data Analytics Professional** with a background in **Agricultural and B
 
 # Data Analytics Portfolio Projects
 
-Welcome to my data analytics portfolio! Here, you'll find a collection of projects showcasing my skills in Excel, Power BI, SQL, Python, and Tableau. Each project includes code, data, and visualizations that highlight different aspects of data analytics, from data cleaning and exploration to dashboard creation and machine learning.
+I have worked on various projects which showcase my skills in Excel, Power BI, SQL, Python, and Tableau. Each project includes code, data, and visualizations that highlight different aspects of data analytics, from data cleaning and exploration to dashboard creation and machine learning. Take a walk around my projects as shown below:
 
 ---
 
