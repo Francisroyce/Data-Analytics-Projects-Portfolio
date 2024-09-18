@@ -34,7 +34,7 @@ This project provides insights into Airbnb data, including bookings, pricing, an
 
 ## 3. Power BI Project: Retail Sales Dashboard
 
-- **Project Link**:![Power BI Image](../powerBI%20image.png)
+- **Project Link**:![Power BI Image](powerBI%20image.png)
 - **Description**: A Power BI dashboard analyzing retail sales data, providing insights into sales performance, customer segmentation, and trends.
 - **Skills Demonstrated**: Data modeling, DAX formulas, Power BI visualizations, KPI analysis.
 
