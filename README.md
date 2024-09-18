@@ -22,6 +22,8 @@ This project provides insights into Airbnb data, including bookings, pricing, an
 
 [![Dashboard](upload/main/Dashboard1.png)](https://public.tableau.com/views/AirBNBTableuFullProjectFrancis/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+![Tableau Image](tableu%20image.png)
+
 ---
 
 ## 2. Excel Project: Complete Sales Performance Analysis
