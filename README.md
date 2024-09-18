@@ -1,4 +1,4 @@
-## Okoronkwo Francis Ifeanyi - Data Analytics Professional
+## Okoronkwo Francis Ifeanyi - Data Analyst
 
 A dexterous, ardent and internally propelled **Data Analyst whose .** experience spans across several data-centric projects, showcasing my expertise in tools like **Excel**, **Power BI**, **SQL**, and **Python**. I have worked on various projects including data cleaning, exploration, visualization, and automation.
 
